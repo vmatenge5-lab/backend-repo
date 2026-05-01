@@ -1,0 +1,127 @@
+{
+  "users": [],
+  "students": [
+    {
+      "id": 1,
+      "student_id": "BU2021001",
+      "name": "Amara Diallo",
+      "email": "amara.diallo@university.edu",
+      "phone": "+267 71 234 567",
+      "major_name": "Computer Science",
+      "year": "3rd Year",
+      "gpa": 3.8,
+      "bio": "Passionate about machine learning and NLP.",
+      "avatar": "AD",
+      "color": "#6c63ff",
+      "created_at": "2026-04-29T20:50:30.047Z"
+    },
+    {
+      "id": 2,
+      "student_id": "BU2022045",
+      "name": "Kgosi Morapedi",
+      "email": "kgosi.m@university.edu",
+      "phone": "+267 72 345 678",
+      "major_name": "Information Systems",
+      "year": "2nd Year",
+      "gpa": 3.5,
+      "bio": "Interested in enterprise systems and BI.",
+      "avatar": "KM",
+      "color": "#ff6584",
+      "created_at": "2026-04-29T20:50:30.048Z"
+    },
+    {
+      "id": 3,
+      "student_id": "BU2020112",
+      "name": "Tebogo Sekgoma",
+      "email": "tebogo.s@university.edu",
+      "phone": "+267 73 456 789",
+      "major_name": "Software Engineering",
+      "year": "4th Year",
+      "gpa": 3.9,
+      "bio": "Full-stack developer, loves open source.",
+      "avatar": "TS",
+      "color": "#43d9a2",
+      "created_at": "2026-04-29T20:50:30.048Z"
+    },
+    {
+      "id": 4,
+      "student_id": "BU2023007",
+      "name": "Neo Gabarone",
+      "email": "neo.g@university.edu",
+      "phone": "+267 74 567 890",
+      "major_name": "Cybersecurity",
+      "year": "1st Year",
+      "gpa": 3.2,
+      "bio": "Aspiring ethical hacker, enjoys CTFs.",
+      "avatar": "NG",
+      "color": "#ffd166",
+      "created_at": "2026-04-29T20:50:30.048Z"
+    },
+    {
+      "id": 5,
+      "student_id": "BU2021089",
+      "name": "Lesego Phiri",
+      "email": "lesego.p@university.edu",
+      "phone": "+267 75 678 901",
+      "major_name": "Data Science",
+      "year": "3rd Year",
+      "gpa": 3.7,
+      "bio": "Statistics enthusiast with Python skills.",
+      "avatar": "LP",
+      "color": "#ef8c8c",
+      "created_at": "2026-04-29T20:50:30.048Z"
+    },
+    {
+      "id": 6,
+      "student_id": "BU2022033",
+      "name": "Onkabetse Tau",
+      "email": "onkabetse.t@university.edu",
+      "phone": "+267 76 789 012",
+      "major_name": "Computer Science",
+      "year": "2nd Year",
+      "gpa": 3.4,
+      "bio": "Game developer in training, loves Unity.",
+      "avatar": "OT",
+      "color": "#54a0ff",
+      "created_at": "2026-04-29T20:50:30.048Z"
+    }
+  ],
+  "majors": [
+    {
+      "id": 1,
+      "name": "Computer Science"
+    },
+    {
+      "id": 2,
+      "name": "Information Systems"
+    },
+    {
+      "id": 3,
+      "name": "Software Engineering"
+    },
+    {
+      "id": 4,
+      "name": "Cybersecurity"
+    },
+    {
+      "id": 5,
+      "name": "Data Science"
+    },
+    {
+      "id": 6,
+      "name": "Information Technology"
+    },
+    {
+      "id": 7,
+      "name": "Electrical Engineering"
+    },
+    {
+      "id": 8,
+      "name": "Mathematics"
+    }
+  ],
+  "nextIds": {
+    "users": 1,
+    "students": 7
+  }
+}
